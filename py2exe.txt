@@ -1,0 +1,2 @@
+Change file name in setup.py
+python setup.py py2exe
