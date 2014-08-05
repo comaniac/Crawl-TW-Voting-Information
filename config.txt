@@ -1,0 +1,5 @@
+Domain: http://db.cec.gov.tw/
+Seek_page: http://db.cec.gov.tw/histQuery.jsp?voteCode=20020101T1C2&qryType=ctks
+Save_as: 91年縣市議員選舉_鄉鎮.html
+Level 1: left_link
+Level 2: null
